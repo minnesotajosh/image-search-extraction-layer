@@ -1,1 +1,2 @@
-# image-search-extraction-layer
+Image Search Abstraction Layer
+=========================
